@@ -35,7 +35,7 @@ Il fonctionne en exploitant les outils systèmes (netsh, PowerShell) et respecte
 ## Pré-requis
 
 - Système : **Windows 11**
-- Java 17 ou supérieur (JDK installé)
+- Java 17 (adoptium conseilé) ou supérieur (JDK installé)
 - Terminal PowerShell disponible
 
 ---
