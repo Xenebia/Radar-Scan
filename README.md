@@ -34,7 +34,7 @@ Il fonctionne en exploitant les outils systèmes (netsh, PowerShell) et respecte
 
 ## Pré-requis
 
-- Système : **Windows 11**
+- Système : **Windows 11** (les autre systeme d'exploitation n'on pas été testé réaction inconnue)
 - Java 17 (adoptium conseilé) ou supérieur (JDK installé)
 - Terminal PowerShell disponible
 
@@ -66,7 +66,7 @@ java RadarScanner
 
 Si pour une raison inconue le programme ne fonctione pas ou vous avez besion d'aide n'ésite pas a nous envoiez un mail ou un commentaire a : m8m7g0pkd@mozmail.com
 
-Pour télécharger Aduptium : https://release-assets.githubusercontent.com/github-production-release-asset/372925194/96387494-5b30-4796-8ce7-988fca9caa6b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-02-04T08%3A57%3A00Z&rscd=attachment%3B+filename%3DOpenJDK17U-jdk_x64_windows_hotspot_17.0.17_10.msi&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-02-04T07%3A56%3A14Z&ske=2026-02-04T08%3A57%3A00Z&sks=b&skv=2018-11-09&sig=8aegXvC9Se%2BBot%2F0Cj1DFA%2FQfVfGUGxhVP1v0U6pyxY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3MDE5Njc0NSwibmJmIjoxNzcwMTkzMTQ1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.mhnWExmOeYRswoZLDqQ064i9AHJ5YcAcBy1RDKQDlxo&response-content-disposition=attachment%3B%20filename%3DOpenJDK17U-jdk_x64_windows_hotspot_17.0.17_10.msi&response-content-type=application%2Foctet-stream
-(le link vous télécharge directement Aduptium)
+Pour télécharger Aduptium : https://adoptium.net/fr/temurin/releases?version=17&os=any&arch=any
+(le link vous met sur la page de téléchargement de Aduptium avec la bonne vertion conseilée)
 
 Merci pour votre contribution !!!
